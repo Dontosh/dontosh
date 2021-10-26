@@ -1,0 +1,22 @@
+{
+  "name": "dontosh",
+  "version": "1.0.0",
+  "description": "who-am-i",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dontosh/dontosh.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "torstein-s-strand <me@torsteinstrand.com> (torsteinstrand.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dontosh/dontosh/issues"
+  },
+  "homepage": "https://github.com/Dontosh/dontosh#readme"
+}

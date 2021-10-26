@@ -1,1 +1,5 @@
-console.log("Hello! My name is Torstein")
+function printName() {
+    console.log("Hello! My name is Torstein")
+}
+
+module.exports = printName
